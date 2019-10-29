@@ -2,7 +2,7 @@ var config = {};
 
 config.port = 80;
 config.index = {
-    'service': 'node-http-proxy',
+    'service': 'siep-api-gateway',
     'status': 'online',
     'motor': 'NodeJS'
 };
